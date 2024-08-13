@@ -54,7 +54,7 @@
 				<Item Name="STR_ASCII-Unicode.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/STR_ASCII-Unicode.vi"/>
 				<Item Name="String(s) to Stamp.vi" Type="VI" URL="/&lt;vilib&gt;/YU/YU-Template/Time/String(s) to Stamp.vi"/>
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
-				<Item Name="System Time String(s).vi" Type="VI" URL="/&lt;vilib&gt;/YU/YU-Template/Time/System Time String(s).vi"/>
+				<Item Name="Time String(s).vi" Type="VI" URL="/&lt;vilib&gt;/YU/YU-Template/Time/Time String(s).vi"/>
 				<Item Name="Time-Delay Override Options.ctl" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delay Override Options.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
